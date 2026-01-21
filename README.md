@@ -1,2 +1,2 @@
 # ACV_Veri
-Case Studies - Aktif Bank
+Case Studies - Çalık Enerji
